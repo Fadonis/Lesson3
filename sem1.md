@@ -44,3 +44,6 @@
 
     git diff <name1><name2>
 
+# Вставка изображений
+![Snake img](img/snake.jpg)
+   # " ![Snake img](img/snake. jpg) "
