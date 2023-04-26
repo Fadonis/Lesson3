@@ -31,6 +31,10 @@
 
     git checkout -b <название_ветки>
 
+ # Удаление ветки
+
+    git branch -d <name>
+
 # Залитие изменений в master
 
     # Переключаемся в master
