@@ -57,3 +57,4 @@
    Creation new branch
    log view
    create vetka2
+   abra-cadabra
