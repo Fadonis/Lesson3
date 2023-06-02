@@ -18,8 +18,9 @@
 Вывод изменений
 
     git log 
-    git log --oneline
-    git log --graph
+    git log --oneline отображение в одну линию
+    git log --graph отображение в графике
+    git log --all Просмотр всех веток
 
 # Создание новой ветки
 Иначе все будет в main ветке
