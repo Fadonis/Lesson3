@@ -56,3 +56,4 @@
 #DZ
    Creation new branch
    log view
+   create vetka2
