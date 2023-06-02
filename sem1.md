@@ -55,3 +55,4 @@
 
 #DZ
    Creation new branch
+   log view
