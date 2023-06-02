@@ -58,3 +58,5 @@
    log view
    Creation messege in branch Vetka2
    abra-kadabra
+
+   #Merge Vetka33 and Vetka3
