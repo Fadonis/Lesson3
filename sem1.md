@@ -56,3 +56,4 @@
 #DZ
    Creation new branch
    log view
+   Creation messege in branch Vetka2
