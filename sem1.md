@@ -9,6 +9,7 @@
 Для добавления изменений в коммит используется
     
      git add <тия файда> 
+     git commit -m "comment"
 
 # Проверка состояния репозитория
 Вывод статуса
@@ -18,8 +19,9 @@
 Вывод изменений
 
     git log 
-    git log --oneline
-    git log --graph
+    git log --oneline отображение в одну линию
+    git log --graph отображение в графике
+    git log --all Просмотр всех веток
 
 # Создание новой ветки
 Иначе все будет в main ветке
@@ -52,3 +54,11 @@
 # Вставка изображений
 ![Snake img](img/snake.jpg)
    # " ![Snake img](img/snake. jpg) "
+
+#DZ
+   Creation new branch
+   log view
+   Creation messege in branch Vetka2
+   abra-kadabra
+
+   #Merge Vetka33 and Vetka3
